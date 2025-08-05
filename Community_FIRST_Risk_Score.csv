@@ -1,5 +1,0 @@
-Household_ID,Zip_Code,FRL_Status,SNAP_Use,Unemployed,Pantry_Use,Utility_Shutoff_Risk,Housing_Instability,Risk_Score,Risk_Level
-1001,62208,1,1,0,1,0,0,45,Medium
-1002,62206,1,0,1,0,1,1,60,Medium
-1003,62203,0,1,0,0,0,0,15,Low
-1004,62201,1,1,1,1,1,1,90,Critical
