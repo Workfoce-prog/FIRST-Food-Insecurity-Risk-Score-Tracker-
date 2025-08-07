@@ -1,0 +1,5 @@
+Household_ID,Region,Unemployment,Food_Expense_Burden,Shutoff_Notices,Eviction_Notices
+1,North,80,90,85,70
+2,South,60,55,65,60
+3,East,30,20,10,25
+4,West,40,45,50,35
