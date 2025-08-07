@@ -1,5 +1,0 @@
-Household_ID,Zip_Code,FRL_Status,SNAP_Use,Unemployed,Pantry_Use,Utility_Shutoff_Risk,Housing_Instability,Risk_Score,Risk_Level,Student_ID,RAG_Level,Recommended_Action
-1001,62208,1,1,0,1,0,0,45,Medium,S1001,🟡 Medium,MODERATE RISK: Share a community resource flyer and suggest pantry access. Recommend monthly check-ins with school liaison or counselor.
-1002,62206,1,0,1,0,1,1,60,Medium,S1002,🟡 Medium,MODERATE RISK: Share a community resource flyer and suggest pantry access. Recommend monthly check-ins with school liaison or counselor.
-1003,62203,0,1,0,0,0,0,15,Low,S1003,🟢 Low,LOW RISK: No immediate action required. Send general awareness material about support programs and keep household on routine observation list.
-1004,62201,1,1,1,1,1,1,90,Critical,S1004,🔴 Critical,URGENT: Connect with food pantry and emergency housing resources immediately. Assign a case manager and conduct a home visit or wellness check if possible.
