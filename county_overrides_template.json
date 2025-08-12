@@ -1,0 +1,26 @@
+{
+  "Hennepin County": {
+    "Red": [
+      "Activate city\u2013county joint coordination with DHS/MDE; embed liaison to EOC if active.",
+      "Expand emergency meal sites with weekend kits; coordinate with Metro Transit for last-mile access.",
+      "Same-day SNAP interviews; multilingual SMS (Spanish, Somali, Hmong) via county partners."
+    ],
+    "Amber": [
+      "Pre-stage shelf-stable items at high-throughput pantries; confirm extended hours.",
+      "Target hotspot ZIPs with SNAP outreach through clinics and schools.",
+      "Notify school nutrition directors; prepare weekend kits."
+    ]
+  },
+  "Ramsey County": {
+    "Red": [
+      "Scale Saint Paul meal sites and weekend/holiday kits in coordination with MDE.",
+      "Stand up SNAP surge staffing; enable walk-in interviews at Service Center.",
+      "Partner with culturally specific CBOs for outreach (e.g., Hmong, Karen, Somali)."
+    ],
+    "Amber": [
+      "Advance TEFAP orders; stage food bank inventory for East Side hotspots.",
+      "Coordinate with SPPS for breakfast expansion and backpack programs.",
+      "Targeted SNAP outreach in transit-poor corridors."
+    ]
+  }
+}
